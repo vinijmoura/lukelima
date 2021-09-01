@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukelima&label=Profile%20views&color=0e75b6&style=flat" alt="lukelima" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cephalopodluke" target="blank"><img src="https://img.shields.io/twitter/follow/cephalopodluke?logo=twitter&style=for-the-badge" alt="cephalopodluke" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/cephalopodluke" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cephalopodluke" height="30" width="40" /></a>
